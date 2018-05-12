@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '32246'
     url: http://www.gutenberg.org/2009/agents/32246
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26796#No-Sect-in-Heaven
 gutenberg_issued: '2008-10-06'
 gutenberg_type: Text
 identifiers:
